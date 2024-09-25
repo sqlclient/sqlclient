@@ -1,0 +1,2742 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+
+
+#: upub.rs_Success
+msgid "执行成功"
+msgstr "Run Success"
+
+#: upub.rs_Warning
+msgid "警告"
+msgstr "Warning"
+
+#: upub.rs_Error
+msgid "错误"
+msgstr "Error"
+
+#: upub.rs_Fail
+msgid "失败"
+msgstr "Fail"
+
+#: upub.rs_Explain
+msgid "解释"
+msgstr "Explain"
+
+#: upub.rs_Time
+msgid "耗时"
+msgstr "Time"
+
+#: upub.rs_second
+msgid " 秒"
+msgstr " second"
+
+#: upub.rs_millisecond
+msgid " 毫秒"
+msgstr " millisecond"
+
+#: upub.rs_DBDisconnect
+msgid "数据库未连接"
+msgstr "Database not connected"
+
+#: upub.rs_DBConnectFail
+msgid "数据库连接失败"
+msgstr "Database connection failed"
+
+#: upub.rs_affectedRow
+msgid "影响行数量"
+msgstr "Number of affected rows"
+
+#: upub.rs_RecordCount
+msgid "返回行数量"
+msgstr "Result Record Count"
+
+
+#: upub.rsmain_conncaption
+msgid "连接"
+msgstr "Connect"
+
+#: upub.rsmain_Scriptcaption
+msgid "脚本"
+msgstr "Script"
+
+#: upub.rsMain_OpenFile
+msgid "打开"
+msgstr "Open"
+
+#: upub.rsMain_ExplainHint
+msgid "解释"
+msgstr "Explain"
+
+#: upub.rsMain_RunHint
+msgid "执行"
+msgstr "Run"
+
+#: upub.rsMain_CommitHint
+msgid "提交"
+msgstr "Commit"
+
+#: upub.rsMain_RollbackHint
+msgid "回滚"
+msgstr "Rollback"
+
+#: upub.rsMain_FormatHint
+msgid "格式化"
+msgstr "Format"
+
+#: upub.rsMain_Snippet
+msgid "SQL片段"
+msgstr "SQL Snippet"
+
+#: upub.rsMain_OthertHint
+msgid "其它"
+msgstr "Other"
+
+#: upub.rsMain_SettingsHint
+msgid "设置"
+msgstr "Settings"
+
+#: upub.rsMain_AboutHint
+msgid "关于"
+msgstr "About"
+
+#: upub.rsMain_CloseHint
+msgid "关闭"
+msgstr "Close Page"
+
+#: upub.rsMain_Script
+msgid "脚本"
+msgstr "Script"
+
+#: upub.rsMain_Alter
+msgid "设计"
+msgstr "Alter"
+
+#: upub.rsMain_Query
+msgid "查询"
+msgstr "Query"
+
+#: upub.rsMain_Record
+msgid "记录"
+msgstr "Record"
+
+#: upub.rsMain_Delete
+msgid "删掉"
+msgstr "Delete"
+
+#: upub.rsMain_SureDelete
+msgid "你确定要删除"
+msgstr "Are you sure you want to delete"
+
+#: upub.rsMain_SureClear
+msgid "你确定要清空"
+msgstr "Are you sure you want to Clear"
+
+#: upub.rsMain_mClosePage
+msgid "关闭页面"
+msgstr "Close Page"
+
+#: upub.rsMain_mCloseOther
+msgid "关闭其它页面"
+msgstr "Close All Other Pages"
+
+#: upub.rsMain_mCloseRightPage
+msgid "关闭右侧页面"
+msgstr "Close Pages on the right"
+
+#: upub.rsMain_mNewPage
+msgid "新建页签"
+msgstr "New Page"
+
+#: upub.rsMain_mCopyPage
+msgid "复制页签"
+msgstr "Copy Page"
+
+#: upub.rsMain_mOpenFile
+msgid "打开文件"
+msgstr "Open File"
+
+#: upub.rsMain_mRun
+msgid "执行"
+msgstr "Run"
+
+#: upub.rsMain_mSave
+msgid "保存"
+msgstr "Save"
+
+#: upub.rsMain_mSaveAs
+msgid "另存 ..."
+msgstr "Save As ..."
+
+#: upub.rsMain_mExpHtml
+msgid "导出 HTML"
+msgstr "Export as HTML"
+
+#: upub.rsMain_mScriptPage
+msgid "打印页面"
+msgstr "Print Script"
+
+#: upub.rsMain_mFileFolder
+msgid "打开目录"
+msgstr "File Folder"
+
+#: upub.rsMain_mOraSession
+msgid "Oracle会话"
+msgstr "Oracle Session"
+
+#: upub.rsMain_mOraNoValid
+msgid "Oracle无效对象"
+msgstr "Oracle No Valid Object"
+
+#: upub.rsMain_OpenFilter
+msgid "SQL文件|*.sql|所有文件|*.*"
+msgstr "SQL File|*.sql|All File|*.*"
+
+#: upub.rsMain_Table
+msgid "表"
+msgstr "Tables"
+
+#: upub.rsMain_SysTable
+msgid "系统表"
+msgstr "System Tables"
+
+#: upub.rsMain_View
+msgid "视图"
+msgstr "Views"
+
+#: upub.rsMain_SysView
+msgid "系统视图"
+msgstr "System Views"
+
+#: upub.rsMain_MaterialView
+msgid "物化视图"
+msgstr "Material Views"
+
+#: upub.rsMain_Function
+msgid "函数"
+msgstr "Functions"
+
+#: upub.rsMain_SysFunction
+msgid "系统函数"
+msgstr "System Function"
+
+#: upub.rsMain_Procedure
+msgid "过程"
+msgstr "Procedures"
+
+#: upub.rsMain_SysProcedure
+msgid "系统过程"
+msgstr "System Procedure"
+
+#: upub.rsMain_Java
+msgid "Java"
+msgstr "Java"
+
+#: upub.rsMain_Job
+msgid "Jobs"
+msgstr "Jobs"
+
+#: upub.rsMain_Package
+msgid "包"
+msgstr "Packages"
+
+#: upub.rsMain_PackageBody
+msgid "包体"
+msgstr "Package bodies"
+
+#: upub.rsMain_Primary
+msgid "主键"
+msgstr "Primary keys"
+
+#: upub.rsMain_Foreign
+msgid "外键"
+msgstr "Foreign keys"
+
+#: upub.rsMain_Index
+msgid "索引"
+msgstr "Indexs"
+
+#: upub.rsMain_Roles
+msgid "角色"
+msgstr "Roles"
+
+#: upub.rsMain_Users
+msgid "用户"
+msgstr "Users"
+
+#: upub.rsMain_Sequence
+msgid "自动化序列"
+msgstr "Sequences"
+
+#: upub.rsMain_Trigger
+msgid "触发器"
+msgstr "Triggers"
+
+#: upub.rsMain_Synonym
+msgid "同义词"
+msgstr "Synonyms"
+
+#: upub.rsMain_DBType
+msgid "自定义类型"
+msgstr "Types"
+
+#: upub.rsMain_DBTypeBody
+msgid "自定义类型体"
+msgstr "Type bodies"
+
+#: upub.rsMain_DBLink
+msgid "连接"
+msgstr "Database links"
+
+#: upub.rsMain_mCloseConn
+msgid "关闭连接"
+msgstr "Close Connect"
+
+#: upub.rsMain_mOpenConn
+msgid "打开连接"
+msgstr "Open Connect"
+
+#: upub.rsMain_mEditConn
+msgid "编辑连接"
+msgstr "Edit Connect"
+
+#: upub.rsMain_mDBFolder
+msgid "本地库目录"
+msgstr "Open Database Folder"
+
+#: upub.rsMain_mNewConn
+msgid "新建连接"
+msgstr "New Connect"
+
+#: upub.rsMain_mCopyConn
+msgid "复制连接"
+msgstr "Copy Connect"
+
+#: upub.rsMain_mDelConn
+msgid "删除连接"
+msgstr "Delete Connect"
+
+#: upub.rsMain_mNewGroup
+msgid "新建组"
+msgstr "New Group"
+
+#: upub.rsMain_mDelGroup
+msgid "删除组"
+msgstr "Delete Group"
+
+#: upub.rsMain_Group
+msgid "分组"
+msgstr "Group"
+
+#: upub.rsMain_AddGroup
+msgid "添加分组"
+msgstr "Add Group"
+
+#: upub.rsMain_GroupName
+msgid "分组名"
+msgstr "Group Name"
+
+#: upub.rsMain_Password
+msgid "密码"
+msgstr "Password"
+
+#: upub.rsMain_InputPassword
+msgid "请输入密码"
+msgstr "Please input a password"
+
+#: upub.rsMain_mRefresh
+msgid "刷新"
+msgstr "Refresh"
+
+#: upub.rsMain_mNewTable
+msgid "新建表"
+msgstr "New Table"
+
+#: upub.rsMain_mNewView
+msgid "新建视图"
+msgstr "New View"
+
+#: upub.rsMain_mNewMaterialView
+msgid "新建物化视图"
+msgstr "New Material View"
+
+#: upub.rsMain_mNewFunction
+msgid "新建函数"
+msgstr "New Function"
+
+#: upub.rsMain_mNewProcedure
+msgid "新建过程"
+msgstr "New Procedure"
+
+#: upub.rsMain_mNewJava
+msgid "新建 Java"
+msgstr "New Java"
+
+#: upub.rsMain_mNewJob
+msgid "新建 Job"
+msgstr "New Job"
+
+#: upub.rsMain_mNewPackage
+msgid "新建包"
+msgstr "New Package"
+
+#: upub.rsMain_mNewPackageBody
+msgid "新建包体"
+msgstr "New Package Body"
+
+#: upub.rsMain_mNewPrimary
+msgid "新建主键"
+msgstr "New Primary key"
+
+#: upub.rsMain_mNewForeign
+msgid "新建外键"
+msgstr "New Foreign key"
+
+#: upub.rsMain_mNewIndex
+msgid "新建索引"
+msgstr "New Index"
+
+#: upub.rsMain_mNewSequence
+msgid "新建序列"
+msgstr "New Sequence"
+
+#: upub.rsMain_mNewTrigger
+msgid "新建触发器"
+msgstr "New Trigger"
+
+#: upub.rsMain_mNewSynonym
+msgid "新建同义词"
+msgstr "New Synonym"
+
+#: upub.rsMain_mNewType
+msgid "新建类型"
+msgstr "New Type"
+
+#: upub.rsMain_mNewTypeBody
+msgid "新建类型体"
+msgstr "New Type Body"
+
+#: upub.rsMain_mNewDBLink
+msgid "新建数据库连接"
+msgstr "New Database Link"
+
+#: upub.rsMain_mNewRoles
+msgid "新建角色"
+msgstr "New Role"
+
+#: upub.rsMain_mNewUsers
+msgid "新建用户"
+msgstr "New User"
+
+#: upub.rsMain_mQuery
+msgid "查询"
+msgstr "Query"
+
+#: upub.rsMain_mQuerySQL
+msgid "查询SQL"
+msgstr "Query SQL"
+
+#: upub.rsMain_mCopyName
+msgid "复制名字"
+msgstr "Copy Name"
+
+#: upub.rsMain_mRecord
+msgid "记录"
+msgstr "Record"
+
+#: upub.rsMain_mAlter
+msgid "结构"
+msgstr "Alter"
+
+#: upub.rsMain_mDrop
+msgid "删掉"
+msgstr "Drop"
+
+#: upub.rsMain_mCreateSQL
+msgid "生成创建SQL"
+msgstr "Generate Create SQL"
+
+#: upub.rsMain_mExportCSV
+msgid "导出CSV"
+msgstr "Export CSV"
+
+#: upub.rsMain_mExplain
+msgid "解释"
+msgstr "Explain"
+
+#: upub.rsMain_mClearRecord
+msgid "清空表记录"
+msgstr "Clear Record"
+
+#: upub.rsDesign_TableName
+msgid "表名："
+msgstr "Table Name："
+
+#: upub.rsDesign_TableTextHint
+msgid "表名不可为空"
+msgstr "Table name cannot be empty"
+
+#: upub.rsDesign_TableComment
+msgid "注释："
+msgstr "Comment："
+
+#: upub.rsDesign_DatabaseType
+msgid "数据库："
+msgstr "Database："
+
+#: upub.rsDesign_TableCatalog
+msgid "目录："
+msgstr "Catalog："
+
+#: upub.rsDesign_TableSchema
+msgid "模式："
+msgstr "Schema："
+
+#: upub.rsDesign_Fields
+msgid "字段"
+msgstr "Fields"
+
+#: upub.rsDesign_Constraints
+msgid "约束"
+msgstr "Constraints"
+
+#: upub.rsDesign_Indexs
+msgid "索引"
+msgstr "Indexs"
+
+#: upub.rsDesign_SQLPreview
+msgid "SQL预览"
+msgstr "SQL Preview"
+
+#: upub.rsDesign_Reset
+msgid "重置"
+msgstr "Reset"
+
+#: upub.rsDesign_Save
+msgid "保存"
+msgstr "Save"
+
+#: upub.rsDesign_SaveHint
+msgid "保存"
+msgstr "Save"
+
+#: upub.rsDesign_Close
+msgid "关闭"
+msgstr "Close"
+
+#: upub.rsDesign_Query
+msgid "查询"
+msgstr "Query"
+
+#: upub.rsDesign_Columns
+msgid "字段"
+msgstr "Columns"
+
+#: upub.rsDesign_FindColumnHint
+msgid "字段查找"
+msgstr "Find Column"
+
+#: upub.rsDesign_AddColumnHint
+msgid "添加字段"
+msgstr "Add Column"
+
+#: upub.rsDesign_DelColumnHint
+msgid "删除字段"
+msgstr "Delete Column"
+
+#: upub.rsDesign_ColumnProperty
+msgid "字段属性"
+msgstr "Column Propertys"
+
+#: upub.rsDesign_PropertyName
+msgid "属性名"
+msgstr "Property Name"
+
+#: upub.rsDesign_PropertyValue
+msgid "属性值"
+msgstr "Property Value"
+
+#: upub.rsNewDB_Connection
+msgid "数据库连接"
+msgstr "Database Connection"
+
+#: upub.rsNewDB_Normal
+msgid "普通"
+msgstr "Normal"
+
+#: upub.rsNewDB_Alone
+msgid "其它"
+msgstr "Alone"
+
+#: upub.rsNewDB_DatabaseType
+msgid "数据库类型"
+msgstr "Database"
+
+#: upub.rsNewDB_DBCharset
+msgid "字符集"
+msgstr "Charset"
+
+#: upub.rsNewDB_NickName
+msgid "昵称"
+msgstr "Nick Name"
+
+#: upub.rsNewDB_ConnMode
+msgid "连接方式"
+msgstr "Conn Mode"
+
+#: upub.rsNewDB_DBAddr
+msgid "地址"
+msgstr "Host Address"
+
+#: upub.rsNewDB_DBPort
+msgid "端口"
+msgstr "Port"
+
+#: upub.rsNewDB_DBSid
+msgid "实例名"
+msgstr "Service Name"
+
+#: upub.rsNewDB_DBUsername
+msgid "用户"
+msgstr "User Name"
+
+#: upub.rsNewDB_DBPassword
+msgid "密码"
+msgstr "Password"
+
+#: upub.rsNewDB_SavePassword
+msgid "保存密码"
+msgstr "Save Password"
+
+#: upub.rsNewDB_DBLib
+msgid "本地驱动"
+msgstr "Local driver"
+
+#: upub.rsNewDB_DBName
+msgid "数据库名"
+msgstr "Database Name"
+
+#: upub.rsNewDB_OdbcName
+msgid "ODBC源"
+msgstr "Odbc Name"
+
+#: upub.rsNewDB_ConnCaption
+msgid "连接"
+msgstr "Connect"
+
+#: upub.rsNewDB_LocalDatabase
+msgid "本地连接"
+msgstr "LocalDatabase"
+
+#: upub.rsNewDB_ClientOnline
+msgid "客户端联机"
+msgstr "ClientOnline"
+
+#: upub.rsNewDB_CannotEmpty
+msgid "不能为空"
+msgstr "Cannot be empty"
+
+#: upub.rsNewDB_NotFolder
+msgid "文件夹不存在"
+msgstr "Folder does not exist"
+
+#: upub.rsNewDB_eg
+msgid "如："
+msgstr "eg："
+
+#: upub.rsNewDB_NotExistCreate
+msgid "(注:不存在则创建)"
+msgstr "(Note: Created if it doesn't exist)"
+
+#: upub.rsSub_First
+msgid "首行"
+msgstr "First"
+    
+#: upub.rsSub_Prior
+msgid "上一条"
+msgstr "Prior"
+    
+#: upub.rsSub_Next
+msgid "下一条"
+msgstr "Next"
+    
+#: upub.rsSub_Last
+msgid "尾行"
+msgstr "Last"
+    
+#: upub.rsSub_Insert
+msgid "插入"
+msgstr "Insert"
+   
+#: upub.rsSub_Delete
+msgid "删除"
+msgstr "Delete"
+    
+#: upub.rsSub_Edit
+msgid "编辑"
+msgstr "Edit"
+    
+#: upub.rsSub_Post
+msgid "提交"
+msgstr "Post"
+    
+#: upub.rsSub_Cancel
+msgid "取消"
+msgstr "Cancel"
+    
+#: upub.rsSub_Refresh
+msgid "刷新"
+msgstr "Refresh"
+    
+#: upub.rsSub_Message
+msgid "消息"
+msgstr "Message"
+
+#: upub.rsSub_LoadALL
+msgid "加载所有数据"
+msgstr "Load all data"
+
+#: upub.rsSub_ExportCSV
+msgid "导出 CSV"
+msgstr "Export CSV"
+
+#: upub.rsSub_ExportExcel
+msgid "导出 Excel"
+msgstr "Export Excel"
+
+#: upub.rsSub_CopyRow
+msgid "复制行数据"
+msgstr "Copy row data"
+
+#: upub.rsSub_CopyTitleRow
+msgid "带字段复制行数据"
+msgstr "Copy row data with fields"
+
+#: upub.rsSub_CopyFields
+msgid "复制字段"
+msgstr "Copy Fields"
+
+#: upub.rsSub_CopySQLInsert
+msgid "复制SQL Insert"
+msgstr "Copy SQL Insert"
+
+
+#: upub.rsSub_NewGroup
+msgid "添加组"
+msgstr "New Group"
+
+#: upub.rsSub_DelGroup
+msgid "删除组"
+msgstr "Delete Group"
+
+#: upub.rsSub_NewSnippet
+msgid "添加片段"
+msgstr "New Snippet"
+
+#: upub.rsSub_CopySnippet
+msgid "复制片段"
+msgstr "Copy Snippet"
+
+#: upub.rsSub_EditSnippet
+msgid "编辑片段"
+msgstr "Edit Snippet"
+
+#: upub.rsSub_DelSnippet
+msgid "删除片段"
+msgstr "Delete Snippet"
+    
+#: upub.rsSub_Explain
+msgid "解释"
+msgstr "Explain"
+    
+#: upub.rsSub_Result
+msgid "结果"
+msgstr "Result"
+    
+#: upub.rsSub_EditTable
+msgid "记录"
+msgstr "Record"
+    
+#: upub.rsSub_LineNumber
+msgid "行号"
+msgstr ""
+
+#: upub.rsSub_PmSpeciaCopy
+msgid "专用复制"
+msgstr "Specia Copy"
+
+#: upub.rsSub_PmCreateSnippet
+msgid "创建代码片段"
+msgstr "Create code snippet"
+
+#: upub.rsSub_SnippetShow
+msgid "显示代码片段"
+msgstr "Show Snippet"
+
+#: upub.rsSub_SnippetHide
+msgid "隐藏代码片段"
+msgstr "Hide Snippet"
+
+#: upub.rsSub_PmPascal
+msgid "Delphi/Lazarus"
+msgstr "Delphi/Lazarus"
+
+#: upub.rsSub_PmJavaCSharp
+msgid "java/C#"
+msgstr "java/C#"
+
+#: upub.rsSub_PmCPlus
+msgid "C/C++"
+msgstr "C/C++"
+
+#: upub.rsSub_PmPHP
+msgid "PHP/Perl"
+msgstr "PHP/Perl"
+
+#: upub.rsSub_PmObjC
+msgid "Obj-C"
+msgstr "Obj-C"
+    
+#: upub.rsOraOperation
+msgid "分析"
+msgstr "Operation"
+    
+#: upub.rsOraObject_name
+msgid "对象名"
+msgstr "Object_name"
+    
+#: upub.rsOraObject_owner
+msgid "所有者"
+msgstr "Object_owner"
+    
+#: upub.rsOraOptimizer
+msgid "优化器"
+msgstr "Optimizer"
+    
+#: upub.rsOraCost
+msgid "总开销"
+msgstr "total cost"
+    
+#: upub.rsOraIo_cost
+msgid "I/O 总开销"
+msgstr "I/O Cost"
+    
+#: upub.rsOraCpu_cost
+msgid "cpu开销"
+msgstr "cpu Cost"
+    
+#: upub.rsOraTemp_space
+msgid "临时空间开销"
+msgstr "temp space"
+    
+#: upub.rsOraCardinality
+msgid "基数"
+msgstr "Cardinality"
+    
+#: upub.rsOraBytes
+msgid "字节"
+msgstr "Bytes"
+    
+#: upub.rsOraPartition_start
+msgid "分区开始"
+msgstr "Partition start"
+    
+#: upub.rsOraPartition_id
+msgid "分区ID"
+msgstr "Partition id"
+    
+#: upub.rsOraPartition_stop
+msgid "分区停止"
+msgstr "Partition stop"
+    
+#: upub.rsOraAccess_predicates
+msgid "关联词"
+msgstr "Access predicates"
+    
+#: upub.rsOraFilter_predicates
+msgid "过滤词"
+msgstr "Filter predicates"
+    
+#: upub.rsOraObject_type
+msgid "对象类型"
+msgstr "Object type"
+    
+#: upub.rsOraObject_node
+msgid "对象节点"
+msgstr "Object node"
+    
+#: upub.rsOraObject_instance
+msgid "对象实例"
+msgstr "Object instance"
+    
+#: upub.rsOraObject_alias
+msgid "对象别名"
+msgstr "Object alias"
+    
+#: upub.rsOraRemarks
+msgid "备注"
+msgstr "Remarks"
+    
+#: upub.rsOraTimestamp
+msgid "时间戳"
+msgstr "Timestamp"
+    
+#: upub.rsOraTime
+msgid "时间流逝"
+msgstr "Time"
+    
+#: upub.rsOraSearch_columns
+msgid "搜索列"
+msgstr "Search columns"
+    
+#: upub.rsOraDepth
+msgid "嵌套深度"
+msgstr "Depth"
+    
+#: upub.rsOraProjection
+msgid "推断"
+msgstr "Projection"
+    
+#: upub.rsOraQblock_name
+msgid "区块名"
+msgstr "Qblock name"
+    
+#: upub.rsOraDistribution
+msgid "分布"
+msgstr "Distribution"
+    
+#: upub.rsMsStmtText
+msgid "计划内容"
+msgstr "StmtText"
+    
+#: upub.rsMsStmtId
+msgid "计划Id"
+msgstr "StmtId"
+    
+#: upub.rsMsPhysicalOp
+msgid "物理操作"
+msgstr "Physical Op"
+    
+#: upub.rsMsLogicalOp
+msgid "逻辑运算"
+msgstr "Logical Op"
+    
+#: upub.rsMsArgument
+msgid "论据"
+msgstr "Argument"
+    
+#: upub.rsMsDefinedValues
+msgid "定义值"
+msgstr "Defined Values"
+    
+#: upub.rsMsEstimateRows
+msgid "估计行"
+msgstr "Estimate Rows"
+    
+#: upub.rsMsEstimateIO
+msgid "I/O开销"
+msgstr "Estimate IO"
+    
+#: upub.rsMsEstimateCPU
+msgid "cpu开销"
+msgstr "Estimate CPU"
+    
+#: upub.rsMsAvgRowSize
+msgid "平均行大小"
+msgstr "Avg Row Size"
+    
+#: upub.rsMsTotalSubtreeCost
+msgid "每步子树开销"
+msgstr "Total Subtree Cost"
+    
+#: upub.rsMsOutputList
+msgid "输出清单"
+msgstr "Output List"
+    
+#: upub.rsMsWarnings
+msgid "警告"
+msgstr "Warnings"
+    
+#: upub.rsMsType
+msgid "类型"
+msgstr "Type"
+
+#: upub.rsMsParallel
+msgid "并行计划"
+msgstr "Parallel"
+    
+#: upub.rsMsEstimateExecutions
+msgid "执行次数"
+msgstr "Estimate Executions"
+
+    
+#: upub.rsMyId
+msgid "Id"
+msgstr "Id"
+    
+#: upub.rsMySelectType
+msgid "查询类型"
+msgstr "Select Type"
+    
+#: upub.rsMyTable
+msgid "表名"
+msgstr "Table"
+    
+#: upub.rsMyType
+msgid "联接类型"
+msgstr "Type"
+    
+#: upub.rsMyPossible_keys
+msgid "可能索引"
+msgstr "Possible keys"
+    
+#: upub.rsMyKey
+msgid "实际索引"
+msgstr "Key"
+    
+#: upub.rsMyKeyLen
+msgid "索引长度"
+msgstr "Key Length"
+    
+#: upub.rsMyRef
+msgid "索引引用列"
+msgstr "Ref"
+    
+#: upub.rsMyRows
+msgid "扫描行"
+msgstr "Rows"
+    
+#: upub.rsMyExtra
+msgid "附加信息"
+msgstr "Extra"
+
+    
+#: upub.rsLiteAddr
+msgid "地址"
+msgstr "Addr"
+
+    
+#: upub.rsLiteOpcode
+msgid "操作码"
+msgstr "Opcode"
+    
+#: upub.rsLiteP1
+msgid "P1"
+msgstr "P1"
+    
+#: upub.rsLiteP2
+msgid "P2"
+msgstr "P2"
+    
+#: upub.rsLiteP3
+msgid "P3"
+msgstr "P3"
+    
+#: upub.rsLiteP4
+msgid "P4"
+msgstr "P4"
+    
+#: upub.rsLiteP5
+msgid "P5"
+msgstr "P5"
+    
+#: upub.rsLiteComment
+msgid "评论"
+msgstr "Comment"
+
+#: upub.rsSet_Setting
+msgid "设置"
+msgstr "Setting"
+
+#: upub.rsSet_General
+msgid "常规"
+msgstr "General"
+
+#: upub.rsSet_Format
+msgid "格式化"
+msgstr "Format"
+
+#: upub.rsSet_Display
+msgid "显示"
+msgstr "Display"
+
+#: upub.rsSet_OK
+msgid "确定"
+msgstr "OK"
+
+#: upub.rsSet_Cancel
+msgid "取消"
+msgstr "Cancel"
+
+#: upub.rsSet_RebootHint
+msgid "设置需要重启后生效"
+msgstr "Settings take effect after reboot"
+
+#: upub.rsSet_Language
+msgid "语言"
+msgstr "Language"
+
+#: upub.rsSet_Theme
+msgid "主题"
+msgstr "Theme"
+
+#: upub.rsSet_LoadMode
+msgid "加载方式"
+msgstr "Load Mode"
+
+#: upub.rsSet_LightColour
+msgid "浅色"
+msgstr "Light Colour"
+
+#: upub.rsSet_DarkColour
+msgid "暗黑"
+msgstr "Dark Colour"
+
+#: upub.rsSet_LazyLoad
+msgid "智能加载"
+msgstr "Lazy Load"
+
+#: upub.rsSet_AllLoad
+msgid "全表加载"
+msgstr "All Load"
+
+#: upub.rsAbout_About
+msgid "关于"
+msgstr "About"
+
+#: upub.rsAbout_TabAbout
+msgid "关于"
+msgstr "About"
+
+#: upub.rsAbout_TabThank
+msgid "感谢"
+msgstr "Thank"
+
+#: upub.rsSearch_Find
+msgid "查找"
+msgstr "Find"
+
+#: upub.rsSearch_Replace
+msgid "替换"
+msgstr "Replace"
+
+#: upub.rsSearch_ReplaceALL
+msgid "替换所有"
+msgstr "Replace All"
+
+#: upub.rsSearch_Direction
+msgid "方向"
+msgstr "Direction"
+
+#: upub.rsSearch_Forward
+msgid "向前"
+msgstr "Forward"
+
+#: upub.rsSearch_SelectedOnly
+msgid "仅选择部分"
+msgstr "Selected Only"
+
+#: upub.rsSearch_Backwards
+msgid "向后"
+msgstr "Backwards"
+
+#: upub.rsSearch_MatchCase
+msgid "区分大小写"
+msgstr "Match Case"
+
+#: upub.rsSearch_WholeWord
+msgid "必须完整单词"
+msgstr "Whole Word"
+
+#: upub.rsSearch_FindText
+msgid "搜索内容："
+msgstr "Search Text："
+    
+#: upub.rsSearch_ReplaceText
+msgid "替换内容："
+msgstr "Replace Text："
+
+#: upub.rsSearch_Cancel
+msgid "取消"
+msgstr "Cancel"
+
+
+
+#: upub.rsFieldView_Title
+msgid "字段值浏览"
+msgstr "Value browse"
+
+#: upub.rsFieldView_Text
+msgid "文本"
+msgstr "Text"
+
+#: upub.rsFieldView_Photo
+msgid "图像"
+msgstr "Photo"
+
+#: upub.rsFieldView_Binary
+msgid "二进制"
+msgstr "Binary"
+
+#: upub.rsFieldView_SaveAs
+msgid "另存"
+msgstr "save as"
+
+#: upub.rsFieldView_Cancel
+msgid "取消"
+msgstr "cancel"
+
+#: upub.rsSnippet_Title
+msgid "代码片段"
+msgstr "Code Snippet"
+
+#: upub.rsSnippet_Append
+msgid "添加"
+msgstr "Append"
+
+#: upub.rsSnippet_Edit
+msgid "编辑"
+msgstr "Edit"
+
+#: upub.rsSnippet_Save
+msgid "保存"
+msgstr "Save"
+
+#: upub.rsSnippet_Cancel
+msgid "取消"
+msgstr "Cancel"
+
+#: upub.rsSnippet_DatabaseType
+msgid "数据库类型"
+msgstr "Database Type"
+
+#: upub.rsSnippet_CodeName
+msgid "片段名"
+msgstr "Snippet Name"
+
+#: upub.rsSnippet_ContinueSave
+msgid "继续保存"
+msgstr "Continue Save"
+
+
+
+
+
+
+
+
+
+#: lclstrconsts.rsmbyes
+msgid "是(&Y)"
+msgstr "&Yes"
+
+#: lclstrconsts.hhshelpbrowsernotexecutable
+#, object-pascal-format
+msgid "浏览器 \"%s\" 不是可执行程序。"
+msgstr "Browser \"%s\" not executable."
+
+#: lclstrconsts.hhshelpbrowsernotfound
+#, object-pascal-format
+msgid "浏览器 \"%s\" 未找到。"
+msgstr "Browser \"%s\" not found."
+
+#: lclstrconsts.hhshelperrorwhileexecuting
+#, object-pascal-format
+msgid "当执行 \"%s\" 时发生错误：%s%s"
+msgstr "Error while executing \"%s\":%s%s"
+
+#: lclstrconsts.hhshelpnohtmlbrowserfound
+msgid "无法找到一个 HTML 浏览器。"
+msgstr "Unable to find a HTML browser."
+
+#: lclstrconsts.hhshelpnohtmlbrowserfoundpleasedefineone
+#, object-pascal-format
+msgid "无法找到 HTML 浏览器。%s请在工具 -> 选项 -> 帮助 -> 帮助选项中定义一个"
+msgstr "No HTML Browser found.%sPlease define one in Tools -> Options -> Help -> Help Options"
+
+#: lclstrconsts.hhshelpthehelpdatabasewasunabletofindfile
+#, object-pascal-format
+msgid "帮助数据库\"%s\"找不到文件\"%s\". "
+msgstr "The help database \"%s\" was unable to find file \"%s\"."
+
+#: lclstrconsts.hhshelpthemacrosinbrowserparamswillbereplacedbytheurl
+#, object-pascal-format
+msgid "浏览框里的宏 %s 将被URL所替代."
+msgstr "The macro %s in BrowserParams will be replaced by the URL."
+
+#: lclstrconsts.ifsalt
+msgid "Alt"
+msgstr "Alt"
+
+#: lclstrconsts.ifsctrl
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: lclstrconsts.ifsvk_cmd
+msgid "Cmd"
+msgstr "Cmd"
+
+#: lclstrconsts.ifsvk_help
+msgctxt "lclstrconsts.ifsvk_help"
+msgid "Help"
+msgstr "帮助"
+
+#: lclstrconsts.ifsvk_meta
+msgid "Meta"
+msgstr ""
+
+#: lclstrconsts.ifsvk_shift
+msgid "Shift"
+msgstr "Shift"
+
+#: lclstrconsts.ifsvk_super
+msgid "Super"
+msgstr "Super"
+
+#: lclstrconsts.ifsvk_unknown
+msgid "Unknown"
+msgstr "未知"
+
+#: lclstrconsts.lislclresourcesnotfound
+#, object-pascal-format
+msgctxt "lclstrconsts.lislclresourcesnotfound"
+msgid "资源%s未找到"
+msgstr "Resource %s not found"
+
+#: lclstrconsts.rs3ddkshadowcolorcaption
+msgid "3D 暗影"
+msgstr "3D Dark Shadow"
+
+#: lclstrconsts.rs3dlightcolorcaption
+msgid "3D 光线"
+msgstr "3D Light"
+
+#: lclstrconsts.rsacontrolcannothaveitselfasparent
+msgid "控件不能将自己作为父控件"
+msgstr "A control can't have itself as a parent"
+
+#: lclstrconsts.rsactivebordercolorcaption
+msgid "活动边线"
+msgstr "Active Border"
+
+#: lclstrconsts.rsactivecaptioncolorcaption
+msgid "活动标题"
+msgstr "Active Caption"
+
+#: lclstrconsts.rsallfiles
+#, object-pascal-format
+msgid "所有文件 (%s)|%s|%s"
+msgstr "All files (%s)|%s|%s"
+
+#: lclstrconsts.rsappworkspacecolorcaption
+msgid "应用程序工作区"
+msgstr "Application Workspace"
+
+#: lclstrconsts.rsaquacolorcaption
+msgid "湖绿色"
+msgstr "Aqua"
+
+#: lclstrconsts.rsascannothaveasparent
+#, object-pascal-format
+msgid "类 %s  不能将 %s 作为父级。"
+msgstr "Class %s cannot have %s as parent."
+
+#: lclstrconsts.rsbackgroundcolorcaption
+msgid "桌面"
+msgstr "Desktop"
+
+#: lclstrconsts.rsbackward
+msgid "后退"
+msgstr "Backward"
+
+#: lclstrconsts.rsbitmaps
+msgid "位图文件"
+msgstr "Bitmap Files"
+
+#: lclstrconsts.rsblackcolorcaption
+msgid "黑色"
+msgstr "Black"
+
+#: lclstrconsts.rsblank
+msgid "空白"
+msgstr "Blank"
+
+#: lclstrconsts.rsbluecolorcaption
+msgid "蓝色"
+msgstr "Blue"
+
+#: lclstrconsts.rsbtnfacecolorcaption
+msgid "按钮底色"
+msgstr "Button Face"
+
+#: lclstrconsts.rsbtnhighlightcolorcaption
+msgid "按钮突出"
+msgstr "Button Highlight"
+
+#: lclstrconsts.rsbtnshadowcolorcaption
+msgid "按钮阴影"
+msgstr "Button Shadow"
+
+#: lclstrconsts.rsbtntextcolorcaption
+msgid "按钮文本"
+msgstr "Button Text"
+
+#: lclstrconsts.rscalculator
+msgid "计算器"
+msgstr "Calculator"
+
+#: lclstrconsts.rscancelrecordhint
+msgctxt "lclstrconsts.rscancelrecordhint"
+msgid "取消"
+msgstr "Cancel"
+
+#: lclstrconsts.rscannotfocus
+msgid "无法聚焦"
+msgstr "Can not focus"
+
+#: lclstrconsts.rscanvasdoesnotallowdrawing
+msgid "Canvas不允许画图"
+msgstr "Canvas does not allow drawing"
+
+#: lclstrconsts.rscaptiontextcolorcaption
+msgid "标题文本"
+msgstr "Caption Text"
+
+#: lclstrconsts.rscasesensitive
+msgid "区分大小写"
+msgstr "Case sensitive"
+
+#: lclstrconsts.rscontrolclasscantcontainchildclass
+#, object-pascal-format
+msgid "类 '%s' 的控件不能将类 '%s' 的控制作为子级"
+msgstr "Control of class '%s' can't have control of class '%s' as a child"
+
+#: lclstrconsts.rscontrolhasnoparentformorframe
+#, object-pascal-format
+msgid "控件 '%s' 没有父窗体或框架"
+msgstr "Control '%s' has no parent form or frame"
+
+#: lclstrconsts.rscontrolisnotaparent
+#, object-pascal-format
+msgid " %s 不是 %s 的父级"
+msgstr "%s is not a parent of %s "
+
+#: lclstrconsts.rscreamcolorcaption
+msgid "奶油色"
+msgstr "Cream"
+
+#: lclstrconsts.rscursor
+msgid "光标文件"
+msgstr "Cursor Files"
+
+#: lclstrconsts.rscustomcolorcaption
+msgid "自定义 ..."
+msgstr "Custom ..."
+
+#: lclstrconsts.rsdatetoolarge
+#, object-pascal-format
+msgid "日期不能超过%s"
+msgstr "Date cannot be past %s"
+
+#: lclstrconsts.rsdatetoosmall
+#, object-pascal-format
+msgid "日期不能在%s之前"
+msgstr "Date cannot be before %s"
+
+#: lclstrconsts.rsdefaultcolorcaption
+msgid "默认"
+msgstr "Default"
+
+#: lclstrconsts.rsdefaultfileinfovalue
+msgid "权限 用户 组 大小 日期 时间"
+msgstr "permissions user group size date time"
+
+#: lclstrconsts.rsdeleterecord
+msgid "删除记录？"
+msgstr "Delete record?"
+
+#: lclstrconsts.rsdeleterecordhint
+msgctxt "lclstrconsts.rsdeleterecordhint"
+msgid "删除"
+msgstr "Delete"
+
+#: lclstrconsts.rsdirection
+msgid "方向"
+msgstr "Direction"
+
+#: lclstrconsts.rsdirectory
+msgid "目录(&D)"
+msgstr "&Directory"
+
+#: lclstrconsts.rsdocopy
+msgid "复制"
+msgstr "Copy"
+
+#: lclstrconsts.rsdopaste
+msgid "粘贴"
+msgstr "Paste"
+
+#: lclstrconsts.rsduplicateiconformat
+msgid "重复图标格式。"
+msgstr "Duplicate icon format."
+
+#: lclstrconsts.rseditrecordhint
+msgid "编辑"
+msgstr "Edit"
+
+#: lclstrconsts.rsentirescope
+msgid "搜索整个文件"
+msgstr "Search entire file"
+
+#: lclstrconsts.rserror
+msgctxt "lclstrconsts.rserror"
+msgid "错误"
+msgstr "Error"
+
+#: lclstrconsts.rserrorcreatingdevicecontext
+#, object-pascal-format
+msgid "创建设备上下文时出错 %s.%s"
+msgstr "Error creating device context for %s.%s"
+
+#: lclstrconsts.rserroroccurredinataddressframe
+#, object-pascal-format
+msgid "Error occurred in %s at %sAddress %s%s Frame %s"
+msgstr "Error occurred in %s at %sAddress %s%s Frame %s"
+
+#: lclstrconsts.rserrorwhilesavingbitmap
+msgid "保存位图时错误."
+msgstr "Error while saving bitmap."
+
+#: lclstrconsts.rsexception
+msgid "异常"
+msgstr "Exception"
+
+#: lclstrconsts.rsfddirectorymustexist
+msgid "目录必须存在"
+msgstr "Directory must exist"
+
+#: lclstrconsts.rsfddirectorynotexist
+#, object-pascal-format
+msgid "目录\"%s\"不存在."
+msgstr "The directory \"%s\" does not exist."
+
+#: lclstrconsts.rsfdfilealreadyexists
+#, object-pascal-format
+msgid "文件\"%s\"已经存在.覆盖?"
+msgstr "The file \"%s\" already exists. Overwrite ?"
+
+#: lclstrconsts.rsfdfilemustexist
+msgid "文件必须存在"
+msgstr "File must exist"
+
+#: lclstrconsts.rsfdfilenotexist
+#, object-pascal-format
+msgid "文件\"%s\"不存在."
+msgstr "The file \"%s\" does not exist."
+
+#: lclstrconsts.rsfdfilereadonly
+#, object-pascal-format
+msgid "文件\"%s\"不可写."
+msgstr "The file \"%s\" is not writable."
+
+#: lclstrconsts.rsfdfilereadonlytitle
+msgid "文件不可写"
+msgstr "File is not writable"
+
+#: lclstrconsts.rsfdfilesaveas
+msgid "保存文件到"
+msgstr "Save file as"
+
+#: lclstrconsts.rsfdopenfile
+msgid "打开现有文件"
+msgstr "Open existing file"
+
+#: lclstrconsts.rsfdoverwritefile
+msgid "覆盖文件?"
+msgstr "Overwrite file ?"
+
+#: lclstrconsts.rsfdpathmustexist
+msgid "路径必须存在"
+msgstr "Path must exist"
+
+#: lclstrconsts.rsfdpathnoexist
+#, object-pascal-format
+msgid "路径\"%s\"不存在."
+msgstr "The path \"%s\" does not exist."
+
+#: lclstrconsts.rsfdselectdirectory
+msgid "选择目录"
+msgstr "Select Directory"
+
+#: lclstrconsts.rsfileinfofilenotfound
+#, object-pascal-format
+msgid "(文件未找到:\"%s\")"
+msgstr "(file not found: \"%s\")"
+
+#: lclstrconsts.rsfileinformation
+msgid "文件信息"
+msgstr "File information"
+
+#: lclstrconsts.rsfilter
+msgctxt "lclstrconsts.rsfilter"
+msgid "(过滤器)"
+msgstr "(filter)"
+
+#: lclstrconsts.rsfind
+msgid "查找"
+msgstr "Find"
+
+#: lclstrconsts.rsfindmore
+msgid "查找更多"
+msgstr "Find more"
+
+#: lclstrconsts.rsfirstrecordhint
+msgid "第一个"
+msgstr "First"
+
+#: lclstrconsts.rsfixedcolstoobig
+msgid "FixedCols 不能大于 ColCount"
+msgstr "FixedCols can't be > ColCount"
+
+#: lclstrconsts.rsfixedrowstoobig
+msgid "FixedRows 不能大于 RowCount"
+msgstr "FixedRows can't be > RowCount"
+
+#: lclstrconsts.rsformcolorcaption
+msgid "窗体"
+msgstr "Form"
+
+#: lclstrconsts.rsformresourcesnotfoundforresourcelessformscreatenew
+#, object-pascal-format
+msgid "找不到表单资源%s。对于无资源的窗体，必须使用CreateNew构造函数。请参阅全局变量RequireDerivedFormResource。"
+msgstr "Form resource %s not found. For resourceless forms CreateNew constructor must be used. See the global variable RequireDerivedFormResource."
+
+#: lclstrconsts.rsformstreamingerror
+#, object-pascal-format
+msgid "窗体流 \"%s\" 错误：%s"
+msgstr "Form streaming \"%s\" error: %s"
+
+#: lclstrconsts.rsforward
+msgid "向前"
+msgstr "Forward"
+
+#: lclstrconsts.rsfuchsiacolorcaption
+msgid "紫红色"
+msgstr "Fuchsia"
+
+#: lclstrconsts.rsgdkoptiondebug
+msgid "--gdk-debug flags     打开GDK 跟踪/调试信息."
+msgstr "--gdk-debug flags     Turn on specific GDK trace/debug messages."
+
+#: lclstrconsts.rsgdkoptionnodebug
+msgid "--gdk-no-debug flags  关闭GDK跟踪/调试信息."
+msgstr "--gdk-no-debug flags  Turn off specific GDK trace/debug messages."
+
+#: lclstrconsts.rsgif
+#, fuzzy
+#| msgid "Graphics Interchange Format"
+msgid "图形交换格式"
+msgstr "Graphics Interchange Format Files"
+
+#: lclstrconsts.rsgoptionfatalwarnings
+msgid "--g-fatal-warnings   由Gtk+/GDK 产生的警告和错误终止应用程序."
+msgstr "--g-fatal-warnings    Warnings and errors generated by Gtk+/GDK will halt the application."
+
+#: lclstrconsts.rsgradientactivecaptioncolorcaption
+msgid "渐变活动标题"
+msgstr "Gradient Active Caption"
+
+#: lclstrconsts.rsgradientinactivecaptioncolorcaption
+msgid "渐变非活动标题"
+msgstr "Gradient Inactive Caption"
+
+#: lclstrconsts.rsgraphic
+msgid "图形"
+msgstr "Graphic"
+
+#: lclstrconsts.rsgraycolorcaption
+msgid "灰色"
+msgstr "Gray"
+
+#: lclstrconsts.rsgraytextcolorcaption
+msgid "灰色文本"
+msgstr "Gray Text"
+
+#: lclstrconsts.rsgreencolorcaption
+msgid "绿色"
+msgstr "Green"
+
+#: lclstrconsts.rsgridfiledoesnotexist
+msgid "网格文件不存在"
+msgstr "Grid file doesn't exist"
+
+#: lclstrconsts.rsgridhasnocols
+msgid "图形没有列时无法将行插入网格"
+msgstr "Cannot insert rows into a grid when it has no columns"
+
+#: lclstrconsts.rsgridhasnorows
+msgid "当网格中没有行时，无法将列插入其中"
+msgstr "Cannot insert columns into a grid when it has no rows"
+
+#: lclstrconsts.rsgridindexoutofrange
+msgid "网格索引越界."
+msgstr "Grid index out of range."
+
+#: lclstrconsts.rsgroupindexcannotbelessthanprevious
+msgid "GroupIndex不能小于上一个菜单项的GroupIndex"
+msgstr "GroupIndex cannot be less than a previous menu item's GroupIndex"
+
+#: lclstrconsts.rsgtkfilter
+msgid "过滤器:"
+msgstr "Filter:"
+
+#: lclstrconsts.rsgtkhistory
+msgid "历史:"
+msgstr "History:"
+
+#: lclstrconsts.rsgtkoptionclass
+msgid "--class classname     Following Xt conventions, the class of a program is the program name with the initial character capitalized. For example, the classname for gimp is \"Gimp\". If --class is specified, the class of the program will be set to \"classname\"."
+msgstr "--class classname     Following Xt conventions, the class of a program is the program name with the initial character capitalized. For example, the classname for gimp is \"Gimp\". If --class is specified, the class of the program will be set to \"classname\"."
+
+#: lclstrconsts.rsgtkoptiondebug
+msgid "--gtk-debug flags     打开Gtk+跟踪/调试信息."
+msgstr "--gtk-debug flags     Turn on specific Gtk+ trace/debug messages."
+
+#: lclstrconsts.rsgtkoptiondisplay
+msgid "--display h:s:d       Connect to the specified X server, where \"h\" is the hostname, \"s\" is the server number (usually 0), and \"d\" is the display number (typically omitted). If --display is not specified, the DISPLAY environment variable is used."
+msgstr "--display h:s:d       Connect to the specified X server, where \"h\" is the hostname, \"s\" is the server number (usually 0), and \"d\" is the display number (typically omitted). If --display is not specified, the DISPLAY environment variable is used."
+
+#: lclstrconsts.rsgtkoptionmodule
+msgid "--gtk-module module   启动时加载指定模块."
+msgstr "--gtk-module module   Load the specified module at startup."
+
+#: lclstrconsts.rsgtkoptionname
+msgid "--name programe       Set program name to \"progname\". If not specified, program name will be set to ParamStrUTF8(0)."
+msgstr "--name programe       Set program name to \"progname\". If not specified, program name will be set to ParamStrUTF8(0)."
+
+#: lclstrconsts.rsgtkoptionnodebug
+msgid "--gtk-no-debug flags  Turn off specific Gtk+ trace/debug messages."
+msgstr "--gtk-no-debug flags  关闭Gtk+跟踪/调试信息."
+
+#: lclstrconsts.rsgtkoptionnotransient
+msgid "--lcl-no-transient    Do not set transient order for modal forms"
+msgstr "--lcl-no-transient    Do not set transient order for modal forms"
+
+#: lclstrconsts.rsgtkoptionnoxshm
+msgid "--no-xshm             禁止使用 X共享内存扩展。"
+msgstr "--no-xshm             Disable use of the X Shared Memory Extension."
+
+#: lclstrconsts.rsgtkoptionsync
+msgid "--sync                Call XSynchronize (display, True) after the Xserver connection has been established. This makes debugging X protocol errors easier, because X request buffering will be disabled and X errors will be received immediately after the protocol request that generated the error has been processed by the X server."
+msgstr "--sync                Call XSynchronize (display, True) after the Xserver connection has been established. This makes debugging X protocol errors easier, because X request buffering will be disabled and X errors will be received immediately after the protocol request that generated the error has been processed by the X server."
+
+#: lclstrconsts.rshelp
+msgctxt "lclstrconsts.rshelp"
+msgid "帮助"
+msgstr "Help"
+
+#: lclstrconsts.rshelpalreadyregistered
+#, object-pascal-format
+msgid "%s:已经注册"
+msgstr "%s: Already registered"
+
+#: lclstrconsts.rshelpcontextnotfound
+msgid "找到了此主题的帮助数据库，但找不到此主题"
+msgstr "A help database was found for this topic, but this topic was not found"
+
+#: lclstrconsts.rshelpdatabasenotfound
+msgid "没有为此主题安装帮助数据库"
+msgstr "There is no help database installed for this topic"
+
+#: lclstrconsts.rshelperror
+msgid "帮助错误"
+msgstr "Help Error"
+
+#: lclstrconsts.rshelphelpcontextnotfound
+#, object-pascal-format
+msgid "帮助上下文%s未找到."
+msgstr "Help context %s not found."
+
+#: lclstrconsts.rshelphelpcontextnotfoundindatabase
+#, object-pascal-format
+msgid "Help context %s not found in Database \"%s\"."
+msgstr "Help context %s not found in Database \"%s\"."
+
+#: lclstrconsts.rshelphelpdatabasedidnotfoundaviewerforahelppageoftype
+#, object-pascal-format
+msgid "Help Database \"%s\" did not find a viewer for a help page of type %s"
+msgstr "Help Database \"%s\" did not find a viewer for a help page of type %s"
+
+#: lclstrconsts.rshelphelpdatabasenotfound
+#, object-pascal-format
+msgid "Help Database \"%s\" not found"
+msgstr "Help Database \"%s\" not found"
+
+#: lclstrconsts.rshelphelpfordirectivenotfound
+#, object-pascal-format
+msgid "Help for directive \"%s\" not found."
+msgstr "Help for directive \"%s\" not found."
+
+#: lclstrconsts.rshelphelpfordirectivenotfoundindatabase
+#, object-pascal-format
+msgid "Help for directive \"%s\" not found in Database \"%s\"."
+msgstr "Help for directive \"%s\" not found in Database \"%s\"."
+
+#: lclstrconsts.rshelphelpkeywordnotfound
+#, object-pascal-format
+msgid "帮助关键字 \"%s\" 未找到。"
+msgstr "Help keyword \"%s\" not found."
+
+#: lclstrconsts.rshelphelpkeywordnotfoundindatabase
+#, object-pascal-format
+msgid "帮助关键字\"%s\"未找到在数据库\"%s\"."
+msgstr "Help keyword \"%s\" not found in Database \"%s\"."
+
+#: lclstrconsts.rshelphelpnodehasnohelpdatabase
+#, object-pascal-format
+msgid "Help node \"%s\" has no Help Database"
+msgstr "Help node \"%s\" has no Help Database"
+
+#: lclstrconsts.rshelpnohelpfoundforsource
+#, object-pascal-format
+msgid "No help found for line %d, column %d of %s."
+msgstr "No help found for line %d, column %d of %s."
+
+#: lclstrconsts.rshelpnohelpnodesavailable
+msgid "No help entries available for this topic"
+msgstr "No help entries available for this topic"
+
+#: lclstrconsts.rshelpnotfound
+msgid "没有帮助找到对于这个主题(topic)"
+msgstr "No help found for this topic"
+
+#: lclstrconsts.rshelpnotregistered
+#, object-pascal-format
+msgid "%s: 没有注册"
+msgstr "%s: Not registered"
+
+#: lclstrconsts.rshelpselectorerror
+msgid "帮助选择器错误"
+msgstr "Help Selector Error"
+
+#: lclstrconsts.rshelpthereisnoviewerforhelptype
+#, object-pascal-format
+msgid "There is no viewer for help type \"%s\""
+msgstr "There is no viewer for help type \"%s\""
+
+#: lclstrconsts.rshelpviewererror
+msgid "帮助查看器错误"
+msgstr "Help Viewer Error"
+
+#: lclstrconsts.rshelpviewernotfound
+msgid "No viewer was found for this type of help content"
+msgstr "No viewer was found for this type of help content"
+
+#: lclstrconsts.rshighlightcolorcaption
+msgid "高亮"
+msgstr "Highlight"
+
+#: lclstrconsts.rshighlighttextcolorcaption
+msgid "高亮文本"
+msgstr "Highlight Text"
+
+#: lclstrconsts.rshotlightcolorcaption
+msgid "热光"
+msgstr "Hot Light" 
+
+#: lclstrconsts.rsicns
+msgid "macOS 图标文件"
+msgstr "macOS Icon Files"
+
+#: lclstrconsts.rsicon
+msgid "图标文件"
+msgstr "Icon Files"
+
+#: lclstrconsts.rsiconimageempty
+msgid "图标图像不能为空"
+msgstr "Icon image cannot be empty"
+
+#: lclstrconsts.rsiconimageformat
+msgid "图标图像必须有相同的格式"
+msgstr "Icon image must have the same format"
+
+#: lclstrconsts.rsiconimageformatchange
+msgid "不能改变图标图像的格式"
+msgstr "Cannot change format of icon image"
+
+#: lclstrconsts.rsiconimagesize
+msgid "图标图像必须有相同的大小"
+msgstr "Icon image must have the same size"
+
+#: lclstrconsts.rsiconimagesizechange
+msgid "不能改变图标图像的大小"
+msgstr "Cannot change size of icon image"
+
+#: lclstrconsts.rsiconnocurrent
+msgid "图标没有当前的图像"
+msgstr "Icon has no current image"
+
+#: lclstrconsts.rsinactivebordercolorcaption
+msgid "非活动边框"
+msgstr "Inactive Border"
+
+#: lclstrconsts.rsinactivecaptioncolorcaption
+msgctxt "lclstrconsts.rsinactivecaptioncolorcaption"
+msgid "非活动标题"
+msgstr "Inactive Caption"
+
+#: lclstrconsts.rsinactivecaptiontext
+msgctxt "lclstrconsts.rsinactivecaptiontext"
+msgid "非活动标题"
+msgstr "Inactive Caption"
+
+#: lclstrconsts.rsindexoutofbounds
+#, object-pascal-format
+msgid "%s索引%d超出范围0..%d"
+msgstr "%s Index %d out of bounds 0 .. %d"
+
+#: lclstrconsts.rsindexoutofrange
+#, object-pascal-format
+msgid "单元格索引超过范围[列=%d 行=%d]"
+msgstr "Index Out of range Cell[Col=%d Row=%d]"
+
+#: lclstrconsts.rsinfobkcolorcaption
+msgid "信息背景色"
+msgstr "Info Background"
+
+#: lclstrconsts.rsinfotextcolorcaption
+msgid "信息文本色"
+msgstr "Info Text"
+
+#: lclstrconsts.rsinsertrecordhint
+msgctxt "lclstrconsts.rsinsertrecordhint"
+msgid "插入"
+msgstr "Insert"
+
+#: lclstrconsts.rsinvaliddate
+#, object-pascal-format
+msgid "无效日期: %s"
+msgstr "Invalid Date : %s"
+
+#: lclstrconsts.rsinvaliddaterangehint
+#, object-pascal-format
+msgid "无效日期:%s.必须在%s和%s之间"
+msgstr "Invalid Date: %s. Must be between %s and %s"
+
+#: lclstrconsts.rsinvalidformobjectstream
+msgid "无效窗体对象流"
+msgstr "invalid Form object stream"
+
+#: lclstrconsts.rsinvalidpropertyvalue
+msgid "无效属性值"
+msgstr "Invalid property value"
+
+#: lclstrconsts.rsinvalidstreamformat
+msgid "无效流格式"
+msgstr "Invalid stream format"
+
+#: lclstrconsts.rsisalreadyassociatedwith
+#, object-pascal-format
+msgid "%s已经与%s相关联"
+msgstr "%s is already associated with %s"
+
+#: lclstrconsts.rsjpeg
+msgid "JPEG 文件"
+msgstr "JPEG Files"
+
+#: lclstrconsts.rslastrecordhint
+msgid "最后(Last)"
+msgstr "Last"
+
+#: lclstrconsts.rslimecolorcaption
+msgid "青柠色"
+msgstr "Lime"
+
+#: lclstrconsts.rslistindexexceedsbounds
+#, object-pascal-format
+msgid "列表索引超过限制 (%d)"
+msgstr "List index exceeds bounds (%d)"
+
+#: lclstrconsts.rsmacosfileformat
+msgid "文件格式:"
+msgstr "File Format:"
+
+#: lclstrconsts.rsmacosmenuhide
+#, object-pascal-format
+msgid "隐藏 %s"
+msgstr "Hide %s"
+
+#: lclstrconsts.rsmacosmenuhideothers
+msgid "隐藏其它"
+msgstr "Hide Others"
+
+#: lclstrconsts.rsmacosmenuquit
+#, object-pascal-format
+msgid "退出 %s"
+msgstr "Quit %s"
+
+#: lclstrconsts.rsmacosmenuservices
+msgid "服务"
+msgstr "Services"
+
+#: lclstrconsts.rsmacosmenushowall
+msgid "显示全部"
+msgstr "Show All"
+
+#: lclstrconsts.rsmarooncolorcaption
+msgid "褐红色"
+msgstr "Maroon"
+
+# 此处翻译为取消更合适，中止在这里表意不正确
+#: lclstrconsts.rsmbabort
+msgid "取消(&C)"
+msgstr "Abort"
+
+#: lclstrconsts.rsmball
+msgid "所有(&A)"
+msgstr "&All"
+
+#: lclstrconsts.rsmbcancel
+msgctxt "lclstrconsts.rsmbcancel"
+msgid "取消(&C)"
+msgstr "Cancel"
+
+#: lclstrconsts.rsmbclose
+msgid "关闭(&C)"
+msgstr "&Close"
+
+#: lclstrconsts.rsmbhelp
+msgid "帮助(&H)"
+msgstr "&Help"
+
+#: lclstrconsts.rsmbignore
+msgid "忽略(&I)"
+msgstr "&Ignore"
+
+#: lclstrconsts.rsmbno
+msgid "否(&N)"
+msgstr "&No"
+
+#: lclstrconsts.rsmbnotoall
+msgid "全部选否(&T)"
+msgstr "No to all"
+
+#: lclstrconsts.rsmbok
+msgid "确定(&O)"
+msgstr "&OK"
+
+#: lclstrconsts.rsmbopen
+msgid "打开(&O)"
+msgstr "&Open"
+
+#: lclstrconsts.rsmbretry
+msgid "重试(&R)"
+msgstr "&Retry"
+
+#: lclstrconsts.rsmbsave
+msgid "保存(&S)"
+msgstr "&Save"
+
+#: lclstrconsts.rsmbunlock
+msgid "解锁(&U)"
+msgstr "&Unlock"
+
+#: lclstrconsts.rsmbyes
+msgid "是(&Y)"
+msgstr "&Yes"
+
+#: lclstrconsts.rsmbyestoall
+msgid "全部选是(&A)"
+msgstr "Yes to &All"
+
+#: lclstrconsts.rsmedgraycolorcaption
+msgid "中灰色"
+msgstr "Medium Gray"
+
+#: lclstrconsts.rsmenubarcolorcaption
+msgid "菜单栏"
+msgstr "Menu Bar"
+
+#: lclstrconsts.rsmenucolorcaption
+msgctxt "lclstrconsts.rsmenucolorcaption"
+msgid "菜单"
+msgstr "Menu"
+
+#: lclstrconsts.rsmenuhighlightcolorcaption
+msgid "菜单高亮"
+msgstr "Menu Highlight"
+
+#: lclstrconsts.rsmenutextcolorcaption
+msgid "菜单文本"
+msgstr "Menu Text"
+
+#: lclstrconsts.rsmodified
+msgid "  已修改 "
+msgstr "  modified "
+
+#: lclstrconsts.rsmoneygreencolorcaption
+msgid "钱绿色"
+msgstr "Money Green"
+
+#: lclstrconsts.rsmtauthentication
+msgid "认证"
+msgstr "Authentication"
+
+#: lclstrconsts.rsmtconfirmation
+msgid "确认"
+msgstr "Confirmation"
+
+#: lclstrconsts.rsmtcustom
+msgid "自定义"
+msgstr "Custom"
+
+#: lclstrconsts.rsmterror
+msgctxt "lclstrconsts.rsmterror"
+msgid "错误"
+msgstr "Error"
+
+#: lclstrconsts.rsmtinformation
+msgid "信息"
+msgstr "Information"
+
+#: lclstrconsts.rsmtwarning
+msgid "警告"
+msgstr "Warning"
+
+#: lclstrconsts.rsnavycolorcaption
+msgid "深蓝色"
+msgstr "Navy"
+
+#: lclstrconsts.rsnextrecordhint
+msgctxt "lclstrconsts.rsnextrecordhint"
+msgid "下一个"
+msgstr "Next"
+
+#: lclstrconsts.rsnonecolorcaption
+msgid "无"
+msgstr "None"
+
+#: lclstrconsts.rsnotavalidgridfile
+msgid "不是有效的网格文件"
+msgstr "Not a valid grid file"
+
+#: lclstrconsts.rsnowidgetset
+msgid "没有 widgetset 对象。请检查 \"interfaces\" 单元是否已添加到程序的 uses 子句中。"
+msgstr "No widgetset object. Please check if the unit \"interfaces\" was added to the programs uses clause."
+
+#: lclstrconsts.rsolivecolorcaption
+msgid "橄榄绿色"
+msgstr "Olive"
+
+#: lclstrconsts.rspickdate
+msgid "选择一个日期"
+msgstr "Select a date"
+
+#: lclstrconsts.rspixmap
+msgid "像素图文件"
+msgstr "Pixmap Files"
+
+#: lclstrconsts.rsportablenetworkgraphic
+msgid "PNG 文件"
+msgstr "PNG Files"
+
+#: lclstrconsts.rsportablepixmap
+msgid "便携式像素图文件"
+msgstr "Portable Pixmap Files"
+
+#: lclstrconsts.rspostrecordhint
+msgid "提交"
+msgstr "Post"
+
+#: lclstrconsts.rspressoktoignoreandriskdatacorruptionpressaborttok
+#, object-pascal-format
+msgid "%s%sPress OK to ignore and risk data corruption.%sPress Abort to kill the program."
+msgstr "%s%sPress OK to ignore and risk data corruption.%sPress Abort to kill the program."
+
+#: lclstrconsts.rspriorrecordhint
+msgctxt "lclstrconsts.rspriorrecordhint"
+msgid "优先"
+msgstr "Prior"
+
+#: lclstrconsts.rspromptonreplace
+msgid "Prompt on replace"
+msgstr "Prompt on replace"
+
+#: lclstrconsts.rspropertydoesnotexist
+#, object-pascal-format
+msgid "属性%s不存在" 
+msgstr "Property %s does not exist"
+
+#: lclstrconsts.rspurplecolorcaption
+msgid "紫色"
+msgstr "Purple"
+
+#: lclstrconsts.rsqtoptiondisableaccurateframe
+msgid "-disableaccurateframe, disables fully accurate window frame under X11. This feature is implemented for Qt, Qt5 and Gtk2 interfaces and used mostly by GetWindowRect()."
+msgstr "-disableaccurateframe, disables fully accurate window frame under X11. This feature is implemented for Qt, Qt5 and Gtk2 interfaces and used mostly by GetWindowRect()."
+
+#: lclstrconsts.rsqtoptiondograb
+msgid "-dograb (only under X11), running under a debugger can cause an implicit -nograb, use -dograb to override. Need QT_DEBUG."
+msgstr "-dograb (only under X11), running under a debugger can cause an implicit -nograb, use -dograb to override. Need QT_DEBUG."
+
+#: lclstrconsts.rsqtoptiongraphicsstyle
+msgid "-graphicssystem param, sets the backend to be used for on-screen widgets and QPixmaps. Available options are native, raster and opengl. OpenGL is still unstable."
+msgstr "-graphicssystem param, sets the backend to be used for on-screen widgets and QPixmaps. Available options are native, raster and opengl. OpenGL is still unstable."
+
+#: lclstrconsts.rsqtoptionnograb
+msgid "-nograb, tells Qt that it must never grab the mouse or the keyboard. Need QT_DEBUG."
+msgstr "-nograb, tells Qt that it must never grab the mouse or the keyboard. Need QT_DEBUG."
+
+#: lclstrconsts.rsqtoptionreverse
+msgid "-reverse, sets the application's layout direction to Qt::RightToLeft."
+msgstr "-reverse, sets the application's layout direction to Qt::RightToLeft."
+
+#: lclstrconsts.rsqtoptionsession
+msgid "-session session, restores the application from an earlier session."
+msgstr "-session session, restores the application from an earlier session."
+
+#: lclstrconsts.rsqtoptionstyle
+msgid "-style style or -style=style, sets the application GUI style. Possible values are motif, windows, and platinum. If you compiled Qt with additional styles or have additional styles as plugins these will be available to the -style  command line option. NOTE: Not all styles are available on all platforms. If style param does not exist Qt will start an application with default common style (windows)."
+msgstr "-style style or -style=style, sets the application GUI style. Possible values are motif, windows, and platinum. If you compiled Qt with additional styles or have additional styles as plugins these will be available to the -style  command line option. NOTE: Not all styles are available on all platforms. If style param does not exist Qt will start an application with default common style (windows)."
+
+#: lclstrconsts.rsqtoptionstylesheet
+msgid "-stylesheet stylesheet or -stylesheet=stylesheet, sets the application Style Sheet. The value must be a path to a file that contains the Style Sheet. Note: Relative URLs in the Style Sheet file are relative to the Style Sheet file's path."
+msgstr "-stylesheet stylesheet or -stylesheet=stylesheet, sets the application Style Sheet. The value must be a path to a file that contains the Style Sheet. Note: Relative URLs in the Style Sheet file are relative to the Style Sheet file's path."
+
+#: lclstrconsts.rsqtoptionsync
+msgid "-sync (only under X11), switches to synchronous mode for debugging."
+msgstr "-sync (only under X11), switches to synchronous mode for debugging."
+
+#: lclstrconsts.rsqtoptionwidgetcount
+msgid "-widgetcount, prints debug message at the end about number of widgets left undestroyed and maximum number of widgets existed at the same time."
+msgstr "-widgetcount, prints debug message at the end about number of widgets left undestroyed and maximum number of widgets existed at the same time."
+
+#: lclstrconsts.rsqtoptionx11bgcolor
+msgid "-bg or -background color, sets the default background color and an application palette (light and dark shades are calculated)."
+msgstr "-bg or -background color, sets the default background color and an application palette (light and dark shades are calculated)."
+
+#: lclstrconsts.rsqtoptionx11btncolor
+msgid "-btn 或 -button color,设置默认button颜色."
+msgstr "-btn or -button color, sets the default button color." 
+
+#: lclstrconsts.rsqtoptionx11cmap
+msgid "-cmap, causes the application to install a private color map on an 8-bit display."
+msgstr "-cmap, causes the application to install a private color map on an 8-bit display."
+
+#: lclstrconsts.rsqtoptionx11display
+msgid "-display display, sets the X display (default is $DISPLAY)."
+msgstr "-display display, sets the X display (default is $DISPLAY)."
+
+#: lclstrconsts.rsqtoptionx11fgcolor
+msgid "-fg 或 -foreground color,设置默认foreground颜色."
+msgstr "-fg or -foreground color, sets the default foreground color."
+
+#: lclstrconsts.rsqtoptionx11font
+msgid "-fn or -font font, defines the application font. The font should be specified using an X logical font description."
+msgstr "-fn or -font font, defines the application font. The font should be specified using an X logical font description."
+
+#: lclstrconsts.rsqtoptionx11geometry
+msgid "-geometry geometry, sets the client geometry of the first window that is shown."
+msgstr "-geometry geometry, sets the client geometry of the first window that is shown."
+
+#: lclstrconsts.rsqtoptionx11im
+msgid "-im, sets the input method server (equivalent to setting the XMODIFIERS environment variable)."
+msgstr "-im, sets the input method server (equivalent to setting the XMODIFIERS environment variable)."
+
+#: lclstrconsts.rsqtoptionx11inputstyle
+msgid "-inputstyle, defines how the input is inserted into the given widget, e.g. onTheSpot makes the input appear directly in the widget, while overTheSpot makes the input appear in a box floating over the widget and is not inserted until the editing is done."
+msgstr "-inputstyle, defines how the input is inserted into the given widget, e.g. onTheSpot makes the input appear directly in the widget, while overTheSpot makes the input appear in a box floating over the widget and is not inserted until the editing is done."
+
+#: lclstrconsts.rsqtoptionx11name
+msgid "-name name,设置应用名称."
+msgstr "-name name, sets the application name."
+
+#: lclstrconsts.rsqtoptionx11ncols
+msgid "-ncols计数，如果应用程序使用QApplication:：ManyColor颜色规范，则限制在8位显示器上的颜色立方体中分配的颜色数。如果计数为216，则使用6x6x6彩色立方体（即，6级红色、6级绿色和6级蓝色）；对于其他值，使用与2x3x1立方体近似成比例的立方体。"
+msgstr "-ncols count, limits the number of colors allocated in the color cube on an 8-bit display, if the application is using the QApplication::ManyColor color specification. If count is 216 then a 6x6x6 color cube is used (i.e. 6 levels of red, 6 of green, and 6 of blue); for other values, a cube approximately proportional to a 2x3x1 cube is used."
+
+#: lclstrconsts.rsqtoptionx11title
+msgid "-title title,设置应用标题."
+msgstr "-title title, sets the application title."
+
+#: lclstrconsts.rsqtoptionx11visual
+msgid "-视觉TrueColor，强制应用程序在8位显示器上使用TrueColor视觉效果。"
+msgstr "-visual TrueColor, forces the application to use a TrueColor visual on an 8-bit display."
+
+#: lclstrconsts.rsrasterimageendupdate
+msgid "在没有更新的情况下结束更新"
+msgstr "Endupdate while no update in progress"
+
+#: lclstrconsts.rsrasterimagesaveinupdate
+msgid "更新时候不能保存图片"
+msgstr "Cannot save image while update in progress"
+
+#: lclstrconsts.rsrasterimageupdateall
+msgid "仅进行画布更新时无法开始全部更新"
+msgstr "Cannot begin update all when canvas only update in progress"
+
+#: lclstrconsts.rsredcolorcaption
+msgid "红色"
+msgstr "Red"
+
+#: lclstrconsts.rsrefreshrecordshint
+msgid "刷新"
+msgstr "Refresh"
+
+#: lclstrconsts.rsreplace
+msgid "替换"
+msgstr "Replace"
+
+#: lclstrconsts.rsreplaceall
+msgid "替换所有"
+msgstr "Replace all"
+
+#: lclstrconsts.rsresourcenotfound
+#, object-pascal-format
+msgctxt "lclstrconsts.rsresourcenotfound"
+msgid "资源%s未找到"
+msgstr "Resource %s not found"
+
+#: lclstrconsts.rsscrollbarcolorcaption
+msgid "滚动条"
+msgstr "ScrollBar"
+
+#: lclstrconsts.rsscrollbaroutofrange
+msgid "滚动条属性超出范围"
+msgstr "ScrollBar property out of range"
+
+#: lclstrconsts.rsselectcolortitle
+msgid "选择颜色"
+msgstr "Select color"
+
+#: lclstrconsts.rsselectfonttitle
+msgid "选择字体"
+msgstr "Select a font"
+
+#: lclstrconsts.rssilvercolorcaption
+msgid "银白色"
+msgstr "Silver"
+
+#: lclstrconsts.rssize
+msgid "  大小 "
+msgstr "  size "
+
+#: lclstrconsts.rsskybluecolorcaption
+msgid "天蓝色"
+msgstr "Sky Blue"
+
+#: lclstrconsts.rstcustomtabcontrolaccessibilitydescription
+msgid "带有选项卡的控件"
+msgstr "A control with tabs"
+
+#: lclstrconsts.rstealcolorcaption
+msgid "蓝绿色"
+msgstr "Teal"
+
+#: lclstrconsts.rstext
+msgid "文本"
+msgstr "Text"
+
+#: lclstrconsts.rstga
+msgid "TGA图像文件"
+msgstr "TGA Image Files"
+
+#: lclstrconsts.rsthebuiltinurlisreadonlychangethebaseurlinstead
+msgid "内置URL是只读的。改为更改BaseURL"
+msgstr "The built-in URL is read only. Change the BaseURL instead."
+
+#: lclstrconsts.rstiff
+#, fuzzy
+#| msgid "Tagged Image File Format"
+msgid "标记图像文件格式"
+msgstr "Tagged Image File Format Files"
+
+#: lclstrconsts.rstpanelaccessibilitydescription
+msgctxt "lclstrconsts.rstpanelaccessibilitydescription"
+msgid "面板"
+msgstr "Panel"
+
+#: lclstrconsts.rstsplitteraccessibilitydescription
+msgctxt "lclstrconsts.rstsplitteraccessibilitydescription"
+msgid "控制一个区域的两个部分的大小的夹点"
+msgstr "A grip to control how much size to give two parts of an area"
+
+#: lclstrconsts.rsttreeviewaccessibilitydescription
+msgctxt "lclstrconsts.rsttreeviewaccessibilitydescription"
+msgid "一个项目(items)树"
+msgstr "A tree of items"
+
+#: lclstrconsts.rsunabletoloaddefaultfont
+msgid "不能加载默认字体"
+msgstr "Unable to load default font"
+
+#: lclstrconsts.rsunknownerrorpleasereportthisbug
+msgid "未知错误,请报告这个错误"
+msgstr "Unknown Error, please report this bug"
+
+#: lclstrconsts.rsunknownpictureextension
+msgid "未知图片文件后缀"
+msgstr "Unknown picture extension"
+
+#: lclstrconsts.rsunknownpictureformat
+msgid "未知图片格式"
+msgstr "Unknown picture format"
+
+#: lclstrconsts.rsunsupportedbitmapformat
+msgid "不支持位图格式."
+msgstr "Unsupported bitmap format."
+
+#: lclstrconsts.rsunsupportedclipboardformat
+#, object-pascal-format
+msgid "不支持剪贴板格式: %s"
+msgstr "Unsupported clipboard format: %s"
+
+#: lclstrconsts.rswarningunreleaseddcsdump
+#, object-pascal-format
+msgid "警告：有  %d 个未发布的 DCs，详细转储如下："
+msgstr "WARNING: There are %d unreleased DCs, a detailed dump follows:"
+
+#: lclstrconsts.rswarningunreleasedgdiobjectsdump
+#, object-pascal-format
+msgid "警告：有  %d 个未发布的GDIObjects，详细转储如下："
+msgstr "WARNING: There are unreleased GDIObjects, a detailed dump follows:"
+
+#: lclstrconsts.rswarningunreleasedmessagesinqueue
+#, object-pascal-format
+msgid " 警告：队列中还有 %d 条信息！我将释放它们"
+msgstr " WARNING: There are %d messages left in the queue! I'll free them"
+
+#: lclstrconsts.rswarningunreleasedtimerinfos
+#, object-pascal-format
+msgid " 警告：还剩 %d 个 TimerInfo 结构，我将释放它们"
+msgstr " WARNING: There are %d TimerInfo structures left, I'll free them"
+
+#: lclstrconsts.rswarningunremovedpaintmessages
+#, object-pascal-format, fuzzy, badformat
+msgid "警告:这里有%d剩余的未移除的LM_PAINT/LM_GtkPAINT信息链接."
+msgstr " WARNING: There are %s unremoved LM_PAINT/LM_GtkPAINT message links left."
+
+#: lclstrconsts.rswhitecolorcaption
+msgid "白色"
+msgstr "White"
+
+#: lclstrconsts.rswholewordsonly
+msgid "仅整个单词"
+msgstr "Whole words only"
+
+#: lclstrconsts.rswin32error
+msgid "错误："
+msgstr "Error:"
+
+#: lclstrconsts.rswin32warning
+msgid "警告:"
+msgstr "Warning:"
+
+#: lclstrconsts.rswindowcolorcaption
+msgid "窗口"
+msgstr "Window"
+
+#: lclstrconsts.rswindowframecolorcaption
+msgid "窗口框架"
+msgstr "Window Frame"
+
+#: lclstrconsts.rswindowtextcolorcaption
+msgid "窗口文本"
+msgstr "Window Text"
+
+#: lclstrconsts.rsyellowcolorcaption
+msgid "黄色"
+msgstr "Yellow"
+
+#: lclstrconsts.scannotfocus
+msgid "无法聚焦禁用或不可见的窗口"
+msgstr "Cannot focus a disabled or invisible window"
+
+#: lclstrconsts.sduplicatemenus
+msgid "重复菜单"
+msgstr "Duplicate menus"
+
+#: lclstrconsts.sinvalidactioncreation
+msgid "无效动作创建"
+msgstr "Invalid action creation"
+
+#: lclstrconsts.sinvalidactionenumeration
+msgid "无效动作详表(enumeration)"
+msgstr "Invalid action enumeration"
+
+#: lclstrconsts.sinvalidactionregistration
+msgid "无效动作注册"
+msgstr "Invalid action registration"
+
+#: lclstrconsts.sinvalidactionunregistration
+msgid "无效动作未注册"
+msgstr "Invalid action unregistration"
+
+#: lclstrconsts.sinvalidimagesize
+msgid "Invalid image size"
+msgstr "无效图像的大小"
+
+#: lclstrconsts.sinvalidindex
+msgid "无效图像列表索引"
+msgstr "Invalid ImageList Index"
+
+#: lclstrconsts.smaskeditnomatch
+msgid "当前文本与指定的掩码不匹配。"
+msgstr "The current text does not match the specified mask."
+
+#: lclstrconsts.smenuindexerror
+msgid "菜单索引超出范围"
+msgstr "Menu index out of range"
+
+#: lclstrconsts.smenuitemisnil
+msgid "MenuItem是nil(空)"
+msgstr "MenuItem is nil"
+
+#: lclstrconsts.smenunotfound
+msgid "子菜单不在菜单中"
+msgstr "Sub-menu is not in menu"
+
+#: lclstrconsts.smkcalt
+msgid "Alt+"
+msgstr "Alt+"
+
+#: lclstrconsts.smkcbksp
+msgid "BkSp"
+msgstr "BkSp"
+
+#: lclstrconsts.smkcctrl
+msgid "Ctrl+"
+msgstr "Ctrl+"
+
+#: lclstrconsts.smkcdel
+msgid "Del"
+msgstr "Del"
+
+#: lclstrconsts.smkcdown
+msgctxt "lclstrconsts.smkcdown"
+msgid "Down"
+msgstr "Down"
+
+#: lclstrconsts.smkcend
+msgctxt "lclstrconsts.smkcend"
+msgid "End"
+msgstr "End"
+
+#: lclstrconsts.smkcenter
+msgid "Enter"
+msgstr "Enter"
+
+#: lclstrconsts.smkcesc
+msgid "Esc"
+msgstr "Esc"
+
+#: lclstrconsts.smkchome
+msgctxt "lclstrconsts.smkchome"
+msgid "Home"
+msgstr "Home"
+
+#: lclstrconsts.smkcins
+msgid "Ins"
+msgstr "Ins"
+
+#: lclstrconsts.smkcleft
+msgctxt "lclstrconsts.smkcleft"
+msgid "Left"
+msgstr "Left"
+
+#: lclstrconsts.smkcmeta
+msgid "Meta+"
+msgstr "Meta+"
+
+#: lclstrconsts.smkcpgdn
+msgid "PgDn"
+msgstr "PgDn"
+
+#: lclstrconsts.smkcpgup
+msgid "PgUp"
+msgstr "PgUp"
+
+#: lclstrconsts.smkcright
+msgctxt "lclstrconsts.smkcright"
+msgid "Right"
+msgstr "Right"
+
+#: lclstrconsts.smkcshift
+msgid "Shift+"
+msgstr "Shift+"
+
+#: lclstrconsts.smkcspace
+msgid "Space"
+msgstr "Space"
+
+#: lclstrconsts.smkctab
+msgctxt "lclstrconsts.smkctab"
+msgid "Tab"
+msgstr "Tab"
+
+#: lclstrconsts.smkcup
+msgctxt "lclstrconsts.smkcup"
+msgid "Up"
+msgstr "Up"
+
+#: lclstrconsts.snotimers
+msgid "无有效计时器"
+msgstr "No timers available"
+
+#: lclstrconsts.sparentrequired
+#, object-pascal-format
+msgid "控件\"%s\" 没有父窗口。"
+msgstr "Control \"%s\" has no parent window."
+
+#: lclstrconsts.sparexpected
+#, object-pascal-format
+msgid "错误的令牌类型：应为%s"
+msgstr "Wrong token type: %s expected"
+
+#: lclstrconsts.sparinvalidfloat
+#, object-pascal-format
+msgid "无效的浮点数: %s"
+msgstr "Invalid floating point number: %s"
+
+#: lclstrconsts.sparinvalidinteger
+#, object-pascal-format
+msgid "无效的整数数: %s"
+msgstr "Invalid integer number: %s"
+
+#: lclstrconsts.sparlocinfo
+#, object-pascal-format
+msgid "(位于%d，%d，流偏移量%d)"
+msgstr "(at %d,%d, stream offset %d)"
+
+#: lclstrconsts.sparunterminatedbinvalue
+msgid "未终止的字节值"
+msgstr "Unterminated byte value"
+
+#: lclstrconsts.sparunterminatedstring
+msgid "未终结的串"
+msgstr "Unterminated string"
+
+#: lclstrconsts.sparwrongtokensymbol
+#, object-pascal-format
+msgid "错误的令牌符号：需要%s，但找到%s"
+msgstr "Wrong token symbol: %s expected but %s found"
+
+#: lclstrconsts.sparwrongtokentype
+#, object-pascal-format
+msgid "错误的令牌类型：需要%s，但找到%s"
+msgstr "Wrong token type: %s expected but %s found"
+
+#: lclstrconsts.sshellctrlsbytes
+#, object-pascal-format
+msgid "%s字节"
+msgstr "%s bytes"
+
+#: lclstrconsts.sshellctrlsinvalidpath
+#, object-pascal-format, fuzzy
+#| msgid ""
+#| "Invalid pathname:\n"
+#| "\"%s\"\n"
+msgctxt "lclstrconsts.sshellctrlsinvalidpath"
+msgid ""
+"无效路径名:\n"
+"\"%s\""
+msgstr ""
+"Invalid pathname:\n"
+"\"%s\"\n"
+
+#: lclstrconsts.sshellctrlsinvalidpathrelative
+#, object-pascal-format
+msgid ""
+"无效的相对路径名:\n"
+"\"%s\"\n"
+"in relation to rootpath:\n"
+"\"%s\""
+msgstr ""
+
+#: lclstrconsts.sshellctrlsinvalidroot
+#, object-pascal-format, fuzzy
+#| msgid ""
+#| "Invalid pathname:\n"
+#| "\"%s\"\n"
+msgctxt "lclstrconsts.sshellctrlsinvalidroot"
+msgid ""
+"无效路径名:\n"
+"\"%s\""
+msgstr ""
+"Invalid pathname:\n"
+"\"%s\"\n"
+
+#: lclstrconsts.sshellctrlskb
+#, object-pascal-format
+msgid "%s kB"
+msgstr "%s kB"
+
+#: lclstrconsts.sshellctrlsmb
+#, object-pascal-format
+msgid "%s MB"
+msgstr "%s MB"
+
+#: lclstrconsts.sshellctrlsname
+msgid "名称"
+msgstr "Name"
+
+#: lclstrconsts.sshellctrlsselecteditemdoesnotexists
+#, object-pascal-format, fuzzy
+#| msgid ""
+#| "The selected item does not exist on disk:\n"
+#| "\"%s\"\n"
+msgid ""
+"所选择项目在硬盘中不存在:\n"
+"\"%s\""
+msgstr ""
+"The selected item does not exist on disk:\n"
+"\"%s\"\n"
+
+#: lclstrconsts.sshellctrlssize
+msgid "大小"
+msgstr "Size"
+
+#: lclstrconsts.sshellctrlstype
+msgid "类型"
+msgstr "Type"
+
+
+
+
+
+
+#: syneditstrconst.SYNS_Undo
+msgid "撤消\tCtrl+Z"
+msgstr "Undo\tCtrl+Z"
+
+#: syneditstrconst.SYNS_Redo
+msgid "恢复\tCtrl+Shift+Z"
+msgstr "Redo\tCtrl+Shift+Z"
+
+#: syneditstrconst.SYNS_Cut
+msgid "剪切\tCtrl+X"
+msgstr "Cut\tCtrl+X"
+
+#: syneditstrconst.SYNS_Copy
+msgid "复制\tCtrl+C"
+msgstr "Copy\tCtrl+C"
+
+#: syneditstrconst.SYNS_Paste
+msgid "粘贴\tCtrl+V"
+msgstr "Paste\tCtrl+V"
+
+#: syneditstrconst.SYNS_Delete
+msgid "删除\tDelete"
+msgstr "Delete\tDelete"
+
+#: syneditstrconst.SYNS_SelectAll
+msgid "全选\tCtrl+A"
+msgstr "SelectAll\tCtrl+A"
